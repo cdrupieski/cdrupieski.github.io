@@ -1,2 +1,5 @@
 _site/
 
+.DS_Store
+_data/.DS_Store
+_includes/.DS_Store
