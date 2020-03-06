@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Christopher Drupieski"
+title                    : "Christopher Drupieski"
 title_separator          : "-"
 name                     : &name "Christopher Drupieski"
 description              : &description "Associate Professor, DePaul University"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christopher Drupieski"
+  name             : "Dr. Christopher Drupieski"
   avatar           : "drupieski-christopher.jpg"
-  bio              : "Assocaite Professor of Mathematics"
+  bio              : "Associate Professor of Mathematics"
   location         : "Chicago, IL"
   employer         : "DePaul University"
   arxiv            : "drupieski_c_1"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=czwDNt0AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=czwDNt0AAAAJ&hl=en"
   email            : "c.drupieski@depaul.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "http://go.depaul.edu/drupieski"
@@ -111,7 +111,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "christopherdrup"
+  twitter          : #"christopherdrup"
   vine             :
   weibo            :
   xing             :
